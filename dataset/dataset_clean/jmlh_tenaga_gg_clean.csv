@@ -1,0 +1,401 @@
+,Kabupaten/Kota,tahun,unit_kerja,Jumlah
+0, Kabupaten Bandung,2022,puskesmas,72
+1, Kabupaten Bandung,2022,rumah sakit,43
+2, Kabupaten Bandung Barat,2022,puskesmas,39
+3, Kabupaten Bandung Barat,2022,rumah sakit,30
+4, Kabupaten Bekasi,2022,puskesmas,45
+5, Kabupaten Bekasi,2022,rumah sakit,175
+6, Kabupaten Bogor,2022,puskesmas,74
+7, Kabupaten Bogor,2022,rumah sakit,134
+8, Kabupaten Ciamis,2022,puskesmas,17
+9, Kabupaten Ciamis,2022,rumah sakit,12
+10, Kabupaten Cianjur,2022,puskesmas,36
+11, Kabupaten Cianjur,2022,rumah sakit,13
+12, Kabupaten Cirebon,2022,puskesmas,55
+13, Kabupaten Cirebon,2022,rumah sakit,33
+14, Kabupaten Garut,2022,puskesmas,27
+15, Kabupaten Garut,2022,rumah sakit,10
+16, Kabupaten Indramayu,2022,puskesmas,36
+17, Kabupaten Indramayu,2022,rumah sakit,14
+18, Kabupaten Karawang,2022,puskesmas,35
+19, Kabupaten Karawang,2022,rumah sakit,70
+20, Kabupaten Kuningan,2022,puskesmas,24
+21, Kabupaten Kuningan,2022,rumah sakit,19
+22, Kabupaten Majalengka,2022,puskesmas,24
+23, Kabupaten Majalengka,2022,rumah sakit,8
+24, Kabupaten Pangandaran,2022,puskesmas,17
+25, Kabupaten Pangandaran,2022,rumah sakit,5
+26, Kabupaten Purwakarta,2022,puskesmas,23
+27, Kabupaten Purwakarta,2022,rumah sakit,24
+28, Kabupaten Subang,2022,puskesmas,25
+29, Kabupaten Subang,2022,rumah sakit,41
+30, Kabupaten Sukabumi,2022,puskesmas,32
+31, Kabupaten Sukabumi,2022,rumah sakit,25
+32, Kabupaten Sumedang,2022,puskesmas,26
+33, Kabupaten Sumedang,2022,rumah sakit,7
+34, Kabupaten Tasikmalaya,2022,puskesmas,27
+35, Kabupaten Tasikmalaya,2022,rumah sakit,27
+36, Kota Bandung,2022,puskesmas,60
+37, Kota Bandung,2022,rumah sakit,485
+38, Kota Banjar,2022,puskesmas,8
+39, Kota Banjar,2022,rumah sakit,2
+40, Kota Bekasi,2022,puskesmas,81
+41, Kota Bekasi,2022,rumah sakit,228
+42, Kota Bogor,2022,puskesmas,49
+43, Kota Bogor,2022,rumah sakit,140
+44, Kota Cimahi,2022,puskesmas,17
+45, Kota Cimahi,2022,rumah sakit,66
+46, Kota Cirebon,2022,puskesmas,22
+47, Kota Cirebon,2022,rumah sakit,48
+48, Kota Depok,2022,puskesmas,50
+49, Kota Depok,2022,rumah sakit,161
+50, Kota Sukabumi,2022,puskesmas,14
+51, Kota Sukabumi,2022,rumah sakit,17
+52, Kota Tasikmalaya,2022,puskesmas,11
+53, Kota Tasikmalaya,2022,rumah sakit,23
+54,Kabupaten Bandung,2018,puskesmas,68
+55,Kabupaten Bandung,2018,rumah sakit,385
+56,Kabupaten Bandung,2019,puskesmas,74
+57,Kabupaten Bandung,2019,rumah sakit,19
+58,Kabupaten Bandung,2020,puskesmas,78
+59,Kabupaten Bandung,2020,rumah sakit,36
+60,Kabupaten Bandung,2021,puskesmas,73
+61,Kabupaten Bandung,2021,rumah sakit,38
+62,Kabupaten Bandung Barat,2018,klinik DINKES,29
+63,Kabupaten Bandung Barat,2018,puskesmas,30
+64,Kabupaten Bandung Barat,2018,rumah sakit,13
+65,Kabupaten Bandung Barat,2019,puskesmas,31
+66,Kabupaten Bandung Barat,2019,rumah sakit,22
+67,Kabupaten Bandung Barat,2020,puskesmas,33
+68,Kabupaten Bandung Barat,2020,rumah sakit,19
+69,Kabupaten Bandung Barat,2021,puskesmas,33
+70,Kabupaten Bandung Barat,2021,rumah sakit,19
+71,Kabupaten Bekasi,2018,puskesmas,30
+72,Kabupaten Bekasi,2018,rumah sakit,112
+73,Kabupaten Bekasi,2019,puskesmas,43
+74,Kabupaten Bekasi,2019,rumah sakit,33
+75,Kabupaten Bekasi,2020,klinik diklat kesehatan,209
+76,Kabupaten Bekasi,2020,puskesmas,48
+77,Kabupaten Bekasi,2020,rumah sakit,161
+78,Kabupaten Bekasi,2021,klinik diklat kesehatan,209
+79,Kabupaten Bekasi,2021,puskesmas,46
+80,Kabupaten Bekasi,2021,rumah sakit,169
+81,Kabupaten Bogor,2018,klinik DINKES,2
+82,Kabupaten Bogor,2018,puskesmas,70
+83,Kabupaten Bogor,2018,rumah sakit,126
+84,Kabupaten Bogor,2019,klinik diklat kesehatan,1
+85,Kabupaten Bogor,2019,puskesmas,61
+86,Kabupaten Bogor,2019,rumah sakit,32
+87,Kabupaten Bogor,2020,puskesmas,61
+88,Kabupaten Bogor,2020,rumah sakit,135
+89,Kabupaten Bogor,2021,puskesmas,68
+90,Kabupaten Bogor,2021,rumah sakit,139
+91,Kabupaten Ciamis,2018,puskesmas,8
+92,Kabupaten Ciamis,2018,rumah sakit,4
+93,Kabupaten Ciamis,2019,puskesmas,16
+94,Kabupaten Ciamis,2019,rumah sakit,8
+95,Kabupaten Ciamis,2020,puskesmas,16
+96,Kabupaten Ciamis,2020,rumah sakit,10
+97,Kabupaten Ciamis,2021,puskesmas,27
+98,Kabupaten Ciamis,2021,rumah sakit,10
+99,Kabupaten Cianjur,2018,puskesmas,23
+100,Kabupaten Cianjur,2018,rumah sakit,0
+101,Kabupaten Cianjur,2019,puskesmas,32
+102,Kabupaten Cianjur,2019,rumah sakit,13
+103,Kabupaten Cianjur,2020,puskesmas,66
+104,Kabupaten Cianjur,2020,rumah sakit,69
+105,Kabupaten Cianjur,2021,puskesmas,66
+106,Kabupaten Cianjur,2021,rumah sakit,69
+107,Kabupaten Cirebon,2018,klinik DINKES,20
+108,Kabupaten Cirebon,2018,puskesmas,36
+109,Kabupaten Cirebon,2018,rumah sakit,33
+110,Kabupaten Cirebon,2019,puskesmas,36
+111,Kabupaten Cirebon,2019,rumah sakit,11
+112,Kabupaten Cirebon,2020,puskesmas,40
+113,Kabupaten Cirebon,2020,rumah sakit,34
+114,Kabupaten Cirebon,2021,puskesmas,43
+115,Kabupaten Cirebon,2021,rumah sakit,35
+116,Kabupaten Garut,2018,puskesmas,21
+117,Kabupaten Garut,2018,rumah sakit,3
+118,Kabupaten Garut,2019,klinik diklat kesehatan,1
+119,Kabupaten Garut,2019,puskesmas,27
+120,Kabupaten Garut,2019,rumah sakit,5
+121,Kabupaten Garut,2020,puskesmas,23
+122,Kabupaten Garut,2020,rumah sakit,7
+123,Kabupaten Garut,2021,klinik DINKES,2
+124,Kabupaten Garut,2021,klinik diklat kesehatan,12
+125,Kabupaten Garut,2021,puskesmas,28
+126,Kabupaten Garut,2021,rumah sakit,5
+127,Kabupaten Indramayu,2018,puskesmas,16
+128,Kabupaten Indramayu,2018,rumah sakit,0
+129,Kabupaten Indramayu,2019,puskesmas,23
+130,Kabupaten Indramayu,2019,rumah sakit,10
+131,Kabupaten Indramayu,2020,puskesmas,29
+132,Kabupaten Indramayu,2020,rumah sakit,19
+133,Kabupaten Indramayu,2021,puskesmas,32
+134,Kabupaten Indramayu,2021,rumah sakit,19
+135,Kabupaten Karawang,2018,puskesmas,43
+136,Kabupaten Karawang,2018,rumah sakit,57
+137,Kabupaten Karawang,2019,puskesmas,33
+138,Kabupaten Karawang,2019,rumah sakit,39
+139,Kabupaten Karawang,2020,puskesmas,38
+140,Kabupaten Karawang,2020,rumah sakit,66
+141,Kabupaten Karawang,2021,puskesmas,38
+142,Kabupaten Karawang,2021,rumah sakit,61
+143,Kabupaten Karawang,2022,klinik DINKES,1
+144,Kabupaten Kuningan,2018,puskesmas,12
+145,Kabupaten Kuningan,2018,rumah sakit,10
+146,Kabupaten Kuningan,2019,puskesmas,15
+147,Kabupaten Kuningan,2019,rumah sakit,12
+148,Kabupaten Kuningan,2020,puskesmas,16
+149,Kabupaten Kuningan,2020,rumah sakit,20
+150,Kabupaten Kuningan,2021,puskesmas,16
+151,Kabupaten Kuningan,2021,rumah sakit,20
+152,Kabupaten Majalengka,2018,puskesmas,14
+153,Kabupaten Majalengka,2018,rumah sakit,5
+154,Kabupaten Majalengka,2019,puskesmas,18
+155,Kabupaten Majalengka,2019,rumah sakit,7
+156,Kabupaten Majalengka,2020,puskesmas,14
+157,Kabupaten Majalengka,2020,rumah sakit,7
+158,Kabupaten Majalengka,2021,puskesmas,18
+159,Kabupaten Majalengka,2021,rumah sakit,7
+160,Kabupaten Pangandaran,2018,puskesmas,7
+161,Kabupaten Pangandaran,2018,rumah sakit,0
+162,Kabupaten Pangandaran,2019,puskesmas,9
+163,Kabupaten Pangandaran,2020,puskesmas,11
+164,Kabupaten Pangandaran,2020,rumah sakit,3
+165,Kabupaten Pangandaran,2021,puskesmas,14
+166,Kabupaten Pangandaran,2021,rumah sakit,3
+167,Kabupaten Purwakarta,2018,puskesmas,18
+168,Kabupaten Purwakarta,2018,rumah sakit,25
+169,Kabupaten Purwakarta,2019,puskesmas,19
+170,Kabupaten Purwakarta,2019,rumah sakit,3
+171,Kabupaten Purwakarta,2020,puskesmas,20
+172,Kabupaten Purwakarta,2020,rumah sakit,20
+173,Kabupaten Purwakarta,2021,puskesmas,17
+174,Kabupaten Purwakarta,2021,rumah sakit,20
+175,Kabupaten Subang,2018,puskesmas,18
+176,Kabupaten Subang,2018,rumah sakit,6
+177,Kabupaten Subang,2019,puskesmas,19
+178,Kabupaten Subang,2019,rumah sakit,10
+179,Kabupaten Subang,2020,puskesmas,19
+180,Kabupaten Subang,2020,rumah sakit,10
+181,Kabupaten Subang,2021,puskesmas,32
+182,Kabupaten Subang,2021,rumah sakit,12
+183,Kabupaten Sukabumi,2018,klinik DINKES,4
+184,Kabupaten Sukabumi,2018,puskesmas,20
+185,Kabupaten Sukabumi,2018,rumah sakit,17
+186,Kabupaten Sukabumi,2019,puskesmas,21
+187,Kabupaten Sukabumi,2019,rumah sakit,23
+188,Kabupaten Sukabumi,2020,puskesmas,23
+189,Kabupaten Sukabumi,2020,rumah sakit,25
+190,Kabupaten Sukabumi,2021,puskesmas,29
+191,Kabupaten Sukabumi,2021,rumah sakit,35
+192,Kabupaten Sumedang,2018,puskesmas,21
+193,Kabupaten Sumedang,2018,rumah sakit,26
+194,Kabupaten Sumedang,2019,puskesmas,13
+195,Kabupaten Sumedang,2019,rumah sakit,2
+196,Kabupaten Sumedang,2020,puskesmas,13
+197,Kabupaten Sumedang,2020,rumah sakit,5
+198,Kabupaten Sumedang,2021,puskesmas,18
+199,Kabupaten Sumedang,2021,rumah sakit,5
+200,Kabupaten Tasikmalaya,2018,puskesmas,18
+201,Kabupaten Tasikmalaya,2018,rumah sakit,0
+202,Kabupaten Tasikmalaya,2019,puskesmas,23
+203,Kabupaten Tasikmalaya,2019,rumah sakit,3
+204,Kabupaten Tasikmalaya,2020,puskesmas,24
+205,Kabupaten Tasikmalaya,2020,rumah sakit,1
+206,Kabupaten Tasikmalaya,2021,puskesmas,21
+207,Kabupaten Tasikmalaya,2021,rumah sakit,3
+208,Kota Bandung,2018,puskesmas,107
+209,Kota Bandung,2018,rumah sakit,385
+210,Kota Bandung,2019,puskesmas,107
+211,Kota Bandung,2019,rumah sakit,112
+212,Kota Bandung,2020,klinik DINKES,20
+213,Kota Bandung,2020,puskesmas,98
+214,Kota Bandung,2020,rumah sakit,0
+215,Kota Bandung,2021,klinik DINKES,186
+216,Kota Bandung,2021,puskesmas,89
+217,Kota Bandung,2021,rumah sakit,494
+218,Kota Banjar,2018,puskesmas,3
+219,Kota Banjar,2018,rumah sakit,3
+220,Kota Banjar,2019,puskesmas,4
+221,Kota Banjar,2019,rumah sakit,1
+222,Kota Banjar,2020,puskesmas,10
+223,Kota Banjar,2020,rumah sakit,4
+224,Kota Banjar,2021,puskesmas,8
+225,Kota Banjar,2021,rumah sakit,2
+226,Kota Bekasi,2018,puskesmas,88
+227,Kota Bekasi,2018,rumah sakit,7
+228,Kota Bekasi,2019,puskesmas,73
+229,Kota Bekasi,2019,rumah sakit,68
+230,Kota Bekasi,2020,puskesmas,82
+231,Kota Bekasi,2020,rumah sakit,134
+232,Kota Bekasi,2021,puskesmas,85
+233,Kota Bekasi,2021,rumah sakit,222
+234,Kota Bogor,2018,puskesmas,42
+235,Kota Bogor,2018,rumah sakit,134
+236,Kota Bogor,2019,puskesmas,43
+237,Kota Bogor,2019,rumah sakit,91
+238,Kota Bogor,2020,puskesmas,42
+239,Kota Bogor,2020,rumah sakit,131
+240,Kota Bogor,2021,puskesmas,46
+241,Kota Bogor,2021,rumah sakit,123
+242,Kota Cimahi,2018,puskesmas,17
+243,Kota Cimahi,2018,rumah sakit,61
+244,Kota Cimahi,2019,puskesmas,16
+245,Kota Cimahi,2019,rumah sakit,14
+246,Kota Cimahi,2020,klinik diklat kesehatan,38
+247,Kota Cimahi,2020,puskesmas,19
+248,Kota Cimahi,2020,rumah sakit,56
+249,Kota Cimahi,2021,puskesmas,17
+250,Kota Cimahi,2021,rumah sakit,59
+251,Kota Cirebon,2018,puskesmas,19
+252,Kota Cirebon,2018,rumah sakit,51
+253,Kota Cirebon,2019,puskesmas,21
+254,Kota Cirebon,2019,rumah sakit,29
+255,Kota Cirebon,2020,puskesmas,43
+256,Kota Cirebon,2020,rumah sakit,36
+257,Kota Cirebon,2021,klinik DINKES,20
+258,Kota Cirebon,2021,puskesmas,43
+259,Kota Cirebon,2021,rumah sakit,36
+260,Kota Depok,2018,puskesmas,54
+261,Kota Depok,2018,rumah sakit,168
+262,Kota Depok,2019,puskesmas,51
+263,Kota Depok,2019,rumah sakit,81
+264,Kota Depok,2020,puskesmas,50
+265,Kota Depok,2020,rumah sakit,213
+266,Kota Depok,2021,puskesmas,50
+267,Kota Depok,2021,rumah sakit,177
+268,Kota Purwakarta,2022,klinik DINKES,1
+269,Kota Sukabumi,2018,puskesmas,9
+270,Kota Sukabumi,2018,rumah sakit,15
+271,Kota Sukabumi,2019,puskesmas,9
+272,Kota Sukabumi,2019,rumah sakit,16
+273,Kota Sukabumi,2020,klinik DINKES,17
+274,Kota Sukabumi,2020,klinik diklat kesehatan,17
+275,Kota Sukabumi,2020,puskesmas,12
+276,Kota Sukabumi,2020,rumah sakit,16
+277,Kota Sukabumi,2021,puskesmas,12
+278,Kota Sukabumi,2021,rumah sakit,19
+279,Kota Tasikmalaya,2018,puskesmas,17
+280,Kota Tasikmalaya,2018,rumah sakit,9
+281,Kota Tasikmalaya,2019,puskesmas,22
+282,Kota Tasikmalaya,2019,rumah sakit,11
+283,Kota Tasikmalaya,2020,klinik DINKES,106
+284,Kota Tasikmalaya,2020,puskesmas,22
+285,Kota Tasikmalaya,2020,rumah sakit,18
+286,Kota Tasikmalaya,2021,klinik DINKES,106
+287,Kota Tasikmalaya,2021,puskesmas,22
+288,Kota Tasikmalaya,2021,rumah sakit,27
+289,Kabupaten Bogor,2022,klinik perorangan,298
+290,Kabupaten Sukabumi,2022,klinik perorangan,31
+291,Kabupaten Cianjur,2022,klinik perorangan,0
+292,Kabupaten Bandung,2022,klinik perorangan,13
+293,Kabupaten Garut,2022,klinik perorangan,6
+294,Kabupaten Tasikmalaya,2022,klinik perorangan,10
+295,Kabupaten Ciamis,2022,klinik perorangan,8
+296,Kabupaten Kuningan,2022,klinik perorangan,63
+297,Kabupaten Cirebon,2022,klinik perorangan,251
+298,Kabupaten Majalengka,2022,klinik perorangan,51
+299,Kabupaten Sumedang,2022,klinik perorangan,27
+300,Kabupaten Indramayu,2022,klinik perorangan,77
+301,Kabupaten Subang,2022,klinik perorangan,13
+302,Kabupaten Purwakarta,2022,klinik perorangan,0
+303,Kabupaten Karawang,2022,klinik perorangan,276
+304,Kabupaten Bekasi,2022,klinik perorangan,66
+305,Kabupaten Bandung Barat,2022,klinik perorangan,0
+306,Kabupaten Pangandaran,2022,klinik perorangan,3
+307,Kota Bogor,2022,klinik perorangan,75
+308,Kota Sukabumi,2022,klinik perorangan,40
+309,Kota Bandung,2022,klinik perorangan,0
+310,Kota Cirebon,2022,klinik perorangan,45
+311,Kota Bekasi,2022,klinik perorangan,66
+312,Kota Depok,2022,klinik perorangan,131
+313,Kota Cimahi,2022,klinik perorangan,69
+314,Kota Tasikmalaya,2022,klinik perorangan,27
+315,Kota Banjar,2022,klinik perorangan,16
+316,Kabupaten Bogor,2021,klinik perorangan,1251
+317,Kabupaten Sukabumi,2021,klinik perorangan,0
+318,Kabupaten Cianjur,2021,klinik perorangan,0
+319,Kabupaten Bandung,2021,klinik perorangan,58
+320,Kabupaten Garut,2021,klinik perorangan,6
+321,Kabupaten Tasikmalaya,2021,klinik perorangan,10
+322,Kabupaten Ciamis,2021,klinik perorangan,8
+323,Kabupaten Kuningan,2021,klinik perorangan,103
+324,Kabupaten Cirebon,2021,klinik perorangan,86
+325,Kabupaten Majalengka,2021,klinik perorangan,27
+326,Kabupaten Sumedang,2021,klinik perorangan,0
+327,Kabupaten Indramayu,2021,klinik perorangan,77
+328,Kabupaten Subang,2021,klinik perorangan,13
+329,Kabupaten Purwakarta,2021,klinik perorangan,0
+330,Kabupaten Karawang,2021,klinik perorangan,90
+331,Kabupaten Bekasi,2021,klinik perorangan,62
+332,Kabupaten Bandung Barat,2021,klinik perorangan,0
+333,Kabupaten Pangandaran,2021,klinik perorangan,3
+334,Kota Bogor,2021,klinik perorangan,57
+335,Kota Sukabumi,2021,klinik perorangan,24
+336,Kota Bandung,2021,klinik perorangan,0
+337,Kota Cirebon,2021,klinik perorangan,45
+338,Kota Bekasi,2021,klinik perorangan,98
+339,Kota Depok,2021,klinik perorangan,107
+340,Kota Cimahi,2021,klinik perorangan,69
+341,Kota Tasikmalaya,2021,klinik perorangan,27
+342,Kota Banjar,2021,klinik perorangan,3
+343,Jawa Barat,2021,klinik perorangan,2224
+344,Kabupaten Bogor,2020,klinik perorangan,1251
+345,Kabupaten Sukabumi,2020,klinik perorangan,21
+346,Kabupaten Cianjur,2020,klinik perorangan,0
+347,Kabupaten Bandung,2020,klinik perorangan,55
+348,Kabupaten Garut,2020,klinik perorangan,25
+349,Kabupaten Tasikmalaya,2020,klinik perorangan,10
+350,Kabupaten Ciamis,2020,klinik perorangan,8
+351,Kabupaten Kuningan,2020,klinik perorangan,94
+352,Kabupaten Cirebon,2020,klinik perorangan,16
+353,Kabupaten Majalengka,2020,klinik perorangan,27
+354,Kabupaten Sumedang,2020,klinik perorangan,8
+355,Kabupaten Indramayu,2020,klinik perorangan,0
+356,Kabupaten Subang,2020,klinik perorangan,13
+357,Kabupaten Purwakarta,2020,klinik perorangan,31
+358,Kabupaten Karawang,2020,klinik perorangan,63
+359,Kabupaten Bekasi,2020,klinik perorangan,45
+360,Kabupaten Bandung Barat,2020,klinik perorangan,0
+361,Kabupaten Pangandaran,2020,klinik perorangan,4
+362,Kota Bogor,2020,klinik perorangan,57
+363,Kota Sukabumi,2020,klinik perorangan,0
+364,Kota Bandung,2020,klinik perorangan,16
+365,Kota Cirebon,2020,klinik perorangan,45
+366,Kota Bekasi,2020,klinik perorangan,98
+367,Kota Depok,2020,klinik perorangan,136
+368,Kota Cimahi,2020,klinik perorangan,62
+369,Kota Tasikmalaya,2020,klinik perorangan,0
+370,Kota Banjar,2020,klinik perorangan,0
+371,Jawa Barat,2020,klinik perorangan,2085
+372,Kabupaten Bogor,2019,klinik perorangan,171
+373,Kabupaten Sukabumi,2019,klinik perorangan,40
+374,Kabupaten Cianjur,2019,klinik perorangan,0
+375,Kabupaten Bandung,2019,klinik perorangan,0
+376,Kabupaten Garut,2019,klinik perorangan,18
+377,Kabupaten Tasikmalaya,2019,klinik perorangan,10
+378,Kabupaten Ciamis,2019,klinik perorangan,0
+379,Kabupaten Kuningan,2019,klinik perorangan,0
+380,Kabupaten Cirebon,2019,klinik perorangan,71
+381,Kabupaten Majalengka,2019,klinik perorangan,25
+382,Kabupaten Sumedang,2019,klinik perorangan,0
+383,Kabupaten Indramayu,2019,klinik perorangan,0
+384,Kabupaten Subang,2019,klinik perorangan,0
+385,Kabupaten Purwakarta,2019,klinik perorangan,0
+386,Kabupaten Karawang,2019,klinik perorangan,25
+387,Kabupaten Bekasi,2019,klinik perorangan,43
+388,Kabupaten Bandung Barat,2019,klinik perorangan,0
+389,Kabupaten Pangandaran,2019,klinik perorangan,0
+390,Kota Bogor,2019,klinik perorangan,57
+391,Kota Sukabumi,2019,klinik perorangan,0
+392,Kota Bandung,2019,klinik perorangan,0
+393,Kota Cirebon,2019,klinik perorangan,0
+394,Kota Bekasi,2019,klinik perorangan,0
+395,Kota Depok,2019,klinik perorangan,0
+396,Kota Cimahi,2019,klinik perorangan,53
+397,Kota Tasikmalaya,2019,klinik perorangan,0
+398,Kota Banjar,2019,klinik perorangan,0
+399,Jawa Barat,2019,klinik perorangan,513
